@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+[This portfolio](https://paul9468.github.io/portfolio/) was created using the following template:
+
 
 Template Name: MyPortfolio
 Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
